@@ -7,4 +7,4 @@ Addressing potential issues with error symbols present in the CSV file, I have i
 The script has been thoroughly tested and is executable in Visual Studio, demonstrating proper functionality in both Visual Studio and Oxygen XML Editor environments.
 
 Achievements: 
-Thanks to this task, I have honed a multitude of skills, including Python programming, Data processing, XML handling, Error management, Library utilization, Problem-solving, and Testing.
+Thanks to this task, I have honed a multitude of skills, including Python programming, Data processing, XML handling, Error management, Library utilization, Problem-solving, Automation, and Testing.
